@@ -1,0 +1,27 @@
+.left {
+    background-color: #0e0932;
+    color: white;
+    padding: 20px;
+    width: 350px;
+    position: absolute; 
+    height: absolute;
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+.left img {
+    height: 250px;
+    width: 220px;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 65px;
+}
+
+.right {
+    background-color: white;
+    margin-left: 430px;
+    position: absolute; 
+    margin-top: 150px;
+    font-size: 19px;
+    width: 100%;
+}
